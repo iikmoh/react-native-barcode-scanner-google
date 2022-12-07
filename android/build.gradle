@@ -14,6 +14,6 @@ android {
 
 dependencies {
     implementation 'com.google.android.gms:play-services-vision:15.0.2'
-    implementation 'com.facebook.react:react-native:0.20.+'
+    implementation 'com.facebook.react:react-native:0.60.+'
     implementation 'androidx.annotation:annotation:1.1.0'
 }
